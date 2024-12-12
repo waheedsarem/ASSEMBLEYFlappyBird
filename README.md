@@ -15,7 +15,7 @@ Welcome to the **Freaky Bird** project! This repository contains an implementati
 
 ## Files in the Repository
 
-1. **`freakybird.asm`**
+1. **`frekybrd.asm`**
    - The main source code of the game, written in x86 assembly.
 2. **`titlescreen.imf`**
    - music played during the title screen.
