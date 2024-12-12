@@ -1,4 +1,4 @@
-# Flappy Bird in Assembly (DOSBox, 25x80 Pixels)
+# Freaky Bird
 Made By: SAREM WAHEED, M. DANIYAL ZAIDI
 
 ## Overview
