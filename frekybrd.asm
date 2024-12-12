@@ -2359,7 +2359,7 @@ pcb:	dw 0, 0, 0, 0, 0 ; task0 regs[cs:pcb + 0]
 current:	db 0 ; index of current task
 
 music_length: dw 20836 
-music_data: incbin "pacman.imf"
+music_data: incbin "titlescreen.imf"
 
 ;-----------------------------------------------------------------
 ; timer interrupt service routine
@@ -2492,7 +2492,7 @@ music:
 		jmp music
 
 music_length1: dw 6928
-music_data1: incbin "urahero.imf"
+music_data1: incbin "background.imf"
 
 music1:
 		; 2) now let's just read "getthem.imf" file content
