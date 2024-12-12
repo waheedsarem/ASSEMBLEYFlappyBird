@@ -1,5 +1,5 @@
 # Flappy Bird
-MADE BY: Ssarem Waheed, M. Daniyal Zaidi
+MADE BY: Sarem Waheed, M. Daniyal Zaidi
 
 ## Overview
 Welcome to the **Freaky Bird** project! This repository contains an implementation of the classic Flappy Bird game, written in x86 assembly language and designed to run on DOSBox with a 25x80 text mode display.
