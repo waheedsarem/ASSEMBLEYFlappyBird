@@ -1,4 +1,4 @@
-# Freaky Bird
+# Flappy Bird
 Made By: SAREM WAHEED, M. DANIYAL ZAIDI
 
 ## Overview
